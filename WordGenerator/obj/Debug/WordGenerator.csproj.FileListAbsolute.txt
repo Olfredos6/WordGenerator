@@ -1,0 +1,6 @@
+c:\users\os6\documents\visual studio 2013\Projects\WordGenerator\WordGenerator\bin\Debug\WordGenerator.exe.config
+c:\users\os6\documents\visual studio 2013\Projects\WordGenerator\WordGenerator\bin\Debug\WordGenerator.exe
+c:\users\os6\documents\visual studio 2013\Projects\WordGenerator\WordGenerator\bin\Debug\WordGenerator.pdb
+c:\users\os6\documents\visual studio 2013\Projects\WordGenerator\WordGenerator\obj\Debug\WordGenerator.csprojResolveAssemblyReference.cache
+c:\users\os6\documents\visual studio 2013\Projects\WordGenerator\WordGenerator\obj\Debug\WordGenerator.exe
+c:\users\os6\documents\visual studio 2013\Projects\WordGenerator\WordGenerator\obj\Debug\WordGenerator.pdb
